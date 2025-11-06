@@ -1,0 +1,5 @@
+requests
+plyer
+win10toast
+pywin32
+PyQt5

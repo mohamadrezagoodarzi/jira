@@ -7,9 +7,9 @@ from PyQt5 import QtWidgets, QtGui, QtCore
 import sys
 
 # ----------------- تنظیمات -----------------
-JIRA_DOMAIN = "http://192.168.3.110:8080"
-USERNAME = "m.goodarzi"
-PASSWORD = "0987&UJM9080"
+JIRA_DOMAIN = "xxxxxxx"
+USERNAME = "xxxxx"
+PASSWORD = "xxxxxx"
 JQL = "assignee = currentUser() ORDER BY updated DESC"
 CHECK_INTERVAL = 300  # 5 دقیقه
 CACHE_FILE = "issues_cache.json"
@@ -135,3 +135,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

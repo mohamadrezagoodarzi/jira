@@ -3,3 +3,6 @@ plyer
 win10toast
 pywin32
 PyQt5
+
+
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
